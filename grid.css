@@ -1,4 +1,7 @@
-*{padding: 7px;}
-#container {display: grid; grid-template-columns: repeat(3, 1fr);row-gap: 10px;column-gap: 20px
-}
-.item{background-color: aqua;border: solid;}
+*{padding: 7px;margin:0}
+#container {display: grid; grid-template-columns: repeat(3, 1fr);row-gap: 10px;column-gap: 20px}
+.lala{background-color:blueviolet;border: solid;}
+#pp{display: grid;grid-template-columns: auto auto auto;gap: 30px;}
+.gg{background-color: seagreen;}
+#zz{display: grid;grid-template-columns: repeat(3, 1fr);gap: 20px;}
+.teste{background-color: lightblue;}
